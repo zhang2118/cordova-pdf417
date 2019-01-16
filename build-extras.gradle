@@ -9,3 +9,5 @@ android {
        exclude 'META-INF/LICENSE'
    }
 }
+
+ext.cdvCompileSdkVersion = 26
